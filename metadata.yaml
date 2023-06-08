@@ -1,0 +1,62 @@
+_repo: Expedition-des-dix-mille_70846
+_version: 0.0.1
+alternative_title: Anabasis. French
+contributor:
+  translator:
+    agent_name: Talbot, Eugène
+    aliases:
+    - Talbot, Eugene
+    - Talbot, E. (Eugène)
+    birthdate: 1814
+    deathdate: 1894
+    gutenberg_agent_id: '8452'
+    url: http://www.gutenberg.org/2009/agents/8452
+    wikipedia: https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Talbot
+creator:
+  author:
+    agent_name: Xenophon
+    aliases:
+    - Ξενοφών
+    - Jenofonte
+    - Xénophon
+    birthdate: -431
+    deathdate: -355
+    gutenberg_agent_id: '543'
+    url: http://www.gutenberg.org/2009/agents/543
+    wikipedia: https://en.wikipedia.org/wiki/Xenophon
+  editor:
+    agent_name: Rousset, Camille
+    aliases:
+    - Rousset, Camille Félix Michel
+    - Rousset, Camille Felix Michel
+    birthdate: 1821
+    deathdate: 1892
+    gutenberg_agent_id: '55951'
+    url: http://www.gutenberg.org/2009/agents/55951
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Camille_Rousset
+    - https://fr.wikipedia.org/wiki/Camille_Rousset
+description: ''
+gutenberg_issued: '2023-05-23'
+identifiers:
+  gutenberg: '70846'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=chi.45711319
+pgterms:marc905: 20230401084004xnophon
+pgterms:marc906: '1872'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aFrance :$bHachette, $c1872.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- History -- Peloponnesian War, 431-404 B.C.'
+- !lcsh 'Iran -- History -- To 640'
+- !lcsh 'Cyrus, the Younger, approximately 423 B.C.-401 B.C.'
+- !lcsh 'Middle East -- Historical geography'
+- !lcc 'PA'
+- GITenberg
+title: Expédition des dix mille
+url: http://www.gutenberg.org/ebooks/70846
