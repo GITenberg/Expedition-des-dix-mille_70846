@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '8452'
     url: http://www.gutenberg.org/2009/agents/8452
     wikipedia: https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Talbot
+covers:
+- cover_type: archival
+  image_path: 70846-h/images/cover.jpg
 creator:
   author:
     agent_name: Xenophon
@@ -37,6 +40,8 @@ creator:
     - https://en.wikipedia.org/wiki/Camille_Rousset
     - https://fr.wikipedia.org/wiki/Camille_Rousset
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70846#Expedition-des-dix-mille
 gutenberg_issued: '2023-05-23'
 identifiers:
   gutenberg: '70846'
